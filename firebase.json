@@ -2,7 +2,7 @@
   "hosting": [
     {
       "target": "oraiwasm",
-      "public": "build",
+      "public": ".vuepress/dist",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
       "rewrites": [
         {

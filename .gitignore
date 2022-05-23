@@ -37,3 +37,4 @@ i18n/**/*
 
 .netlify
 .firebase/
+.vuepress/dist
