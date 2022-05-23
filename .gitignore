@@ -36,3 +36,4 @@ website-1.x-migrated
 i18n/**/*
 
 .netlify
+.firebase/
